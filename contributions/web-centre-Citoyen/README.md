@@ -3,6 +3,10 @@
 ## Accessibilité
 
 ## Sécurité
+ - les bases de la sécurité de des données 
+ - le paysage des cybermenaces dans un contexte d'ouverture des données
+ - la protection de la vie privée
+ - 
 
 ## Facilité d'utilisation
 
